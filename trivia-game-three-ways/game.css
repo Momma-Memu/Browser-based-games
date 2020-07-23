@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(116, 161, 187);
+}
+
+#game-board{
+    width: 600px;
+    margin: auto;
+    padding: 1em;
+    background-color: white;
+}
+
+#score{
+    font-size: 1.5em;
+    margin: 1.25em 0;
+    color: rgb(23, 184, 23);
+}
+
+#answer{
+    font-size: 1.5em;
+    margin: 1.25em 0;
+}
+
+#value{
+    font-size: 1.5em;
+    margin: 1.25em 0;
+    color: rgb(93, 93, 224);
+}
+
+#category-title{
+    font-size: 1.25em;
+    margin: 1.25em 0;
+}
+
+#invalid-count{
+    font-size: 1em;
+    margin: 1.25em 0;
+}
+
+#question{
+    font-size: 1.5em;
+    margin: 1.25em 0;
+    color: rgb(36, 177, 177);
+}
+
+.is-hidden{
+    display: none;
+
+}
+
+#check-response:hover{
+    background-color: rgb(238, 238, 105);
+}
+
+#use-callback:hover{
+    background-color: rgb(238, 238, 105);
+}
+
+#use-promise:hover{
+    background-color: rgb(238, 238, 105);
+}
+
+#use-async-await:hover{
+    background-color: rgb(238, 238, 105);
+}
