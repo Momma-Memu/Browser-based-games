@@ -1,5 +1,5 @@
 # Browser-based-games
-A few projects I completed using Javascript
+A few projects I completed using Javascript as part of the App Academy curriculum.
 
 For Trivia Game in Three Ways:
 
